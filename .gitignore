@@ -2,3 +2,6 @@
 .target
 *.iml
 out
+src/main/resources/
+target/generated-sources/
+target/generated-test-sources/
